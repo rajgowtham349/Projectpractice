@@ -28,6 +28,18 @@ public class ClassA {
 		    System.out.println("andhra");
 			}
 	  
+		  public void method7() {
+			    System.out.println("canada");
+				}
+
+	           public void method8() {
+			    System.out.println("france");
+				}
+
+			  public void method9() {
+			    System.out.println("russia");
+				}
+
 }
 
 
